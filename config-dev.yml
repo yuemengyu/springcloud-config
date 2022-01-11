@@ -24,3 +24,7 @@ mybatis:
   mapperLocations: classpath:mapper/*.xml
   type-aliases-package: com.atzhiyuan.springcloudm.entity    # 所有Entity别名类所在包
 
+
+config:
+  info: "master branch,springcloud-config/config-dev.yml version=7" 
+
